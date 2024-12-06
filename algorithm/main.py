@@ -1,11 +1,14 @@
 from titles import titles
 from existing import ExistingAlgo
 from enhanced import EnhancedAlgo
+from enhancedcopy import EnhancedAlgoCopy
 
 print("Enhanced Library Search Engine")
 query = input("Search for a book: ")
 
 index_and_scores = dict()
+
+# For Existing Jaro Searching
 
 # for index, title in titles.items():
 #     score = ExistingAlgo.jaro_winkler(query.lower(), title.lower())
@@ -24,3 +27,5 @@ print("Matching books and their scores:")
 for index, score in sorted_index_and_scores: 
     title = titles[index] 
     print(f"{title}, Score: {score:.4f}")
+
+print(f"search results {len(index_and_scores)}")

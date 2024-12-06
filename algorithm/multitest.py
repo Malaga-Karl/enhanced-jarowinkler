@@ -1,4 +1,4 @@
-def jaro_distance(s1, s2):
+def jaro_distance(s1: str, s2: str  ) -> tuple[float, int]:
     if s1 == s2:
         return 1.0
     
@@ -37,5 +37,6 @@ def jaro_distance(s1, s2):
 
     return (match / len1 + match / len2 + (match - t) / match) / 3.0, match
 
-res, match = jaro_distance('diomedes', 'rafael')
-print(res, match)
+
+res = jaro_distance('diomedes', 'rafael')
+print(res)

@@ -1,4 +1,4 @@
-class EnhancedAlgo:
+class EnhancedAlgoCopy:
 
     def jaro_winkler(s1, s2):
 
@@ -89,10 +89,6 @@ class EnhancedAlgo:
             if jw > 0.80:
                 return jw
            
-            # jw = suffix_weight(s1, s2, match, prefix, jaro_dist)
-            # if jw > 0.80:
-            #     return jw
-           
             if jw > maxJw:
                 maxJw = jw
                 
@@ -140,4 +136,4 @@ class EnhancedAlgo:
 
             t /= 2
 
-            return (match / len1 + match / len2 + (match - t) / match) / 3.0
+            return (match / len1 + match / len2 + (match - t) / match) / 3.0    
