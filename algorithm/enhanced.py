@@ -86,13 +86,11 @@ class EnhancedAlgo:
 
             prefix = min(4, prefix)
             jw = jaro_dist + 0.1 * prefix * (1 - jaro_dist)
-            if jw > 0.80:
-                return jw
-           
-            # jw = suffix_weight(s1, s2, match, prefix, jaro_dist)
             # if jw > 0.80:
             #     return jw
-           
+            if jw > maxJw:
+                maxJw = jw
+            jw = suffix_weight(s1, s2, match, prefix, jaro_dist)
             if jw > maxJw:
                 maxJw = jw
                 
