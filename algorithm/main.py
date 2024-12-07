@@ -53,8 +53,8 @@ for index, score in sorted_index_and_scores:
     print(f"{title}, Score: {score:.4f}")
 
 print(f"\nsearch results {len(index_and_scores)}")
-print(f"exact matches {len(exact_matches)}")
-print(f"'{query}' in middle of title {len(query_in_middle_of_string)}\n")
+print(f"exact matches (from algorithm): {len(exact_matches)}")
+print(f"'{query}' in the title {len(query_in_middle_of_string)}\n")
 
 print("Exact Matches")
 for title in query_in_middle_of_string:
