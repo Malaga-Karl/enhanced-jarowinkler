@@ -1,0 +1,3202 @@
+{
+    "time": {
+        "base": {
+            "search_result": 8,
+            "returned_exact_match": 4,
+            "actual_exact_match": 48,
+            "time_of_execution": 0.11070799827575684
+        },
+        "enhanced": {
+            "search_result": 231,
+            "returned_exact_match": 48,
+            "actual_exact_match": 48,
+            "time_of_execution": 0.8703854084014893
+        },
+        "levenshtein": {
+            "search_result": 11,
+            "returned_exact_match": 0,
+            "actual_exact_match": 48,
+            "time_of_execution": 0.023936033248901367
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 48,
+            "time_of_execution": 0.01746225357055664
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 48,
+            "time_of_execution": 0.31267237663269043
+        }
+    },
+    "year": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 83,
+            "time_of_execution": 0.11170291900634766
+        },
+        "enhanced": {
+            "search_result": 369,
+            "returned_exact_match": 83,
+            "actual_exact_match": 83,
+            "time_of_execution": 0.5451958179473877
+        },
+        "levenshtein": {
+            "search_result": 4,
+            "returned_exact_match": 0,
+            "actual_exact_match": 83,
+            "time_of_execution": 0.018949031829833984
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 83,
+            "time_of_execution": 0.019946575164794922
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 83,
+            "time_of_execution": 0.2792532444000244
+        }
+    },
+    "people": {
+        "base": {
+            "search_result": 2,
+            "returned_exact_match": 2,
+            "actual_exact_match": 41,
+            "time_of_execution": 0.14066004753112793
+        },
+        "enhanced": {
+            "search_result": 76,
+            "returned_exact_match": 41,
+            "actual_exact_match": 41,
+            "time_of_execution": 0.6761949062347412
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 41,
+            "time_of_execution": 0.020943641662597656
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 41,
+            "time_of_execution": 0.01994776725769043
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 41,
+            "time_of_execution": 0.2813897132873535
+        }
+    },
+    "way": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 45,
+            "time_of_execution": 0.09574365615844727
+        },
+        "enhanced": {
+            "search_result": 70,
+            "returned_exact_match": 45,
+            "actual_exact_match": 45,
+            "time_of_execution": 0.6492655277252197
+        },
+        "levenshtein": {
+            "search_result": 7,
+            "returned_exact_match": 0,
+            "actual_exact_match": 45,
+            "time_of_execution": 0.02295660972595215
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 45,
+            "time_of_execution": 0.02094125747680664
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 45,
+            "time_of_execution": 0.30620694160461426
+        }
+    },
+    "day": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.10373091697692871
+        },
+        "enhanced": {
+            "search_result": 80,
+            "returned_exact_match": 18,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.5026731491088867
+        },
+        "levenshtein": {
+            "search_result": 10,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.036850929260253906
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.04488086700439453
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.5391721725463867
+        }
+    },
+    "man": {
+        "base": {
+            "search_result": 5,
+            "returned_exact_match": 0,
+            "actual_exact_match": 54,
+            "time_of_execution": 0.10680580139160156
+        },
+        "enhanced": {
+            "search_result": 676,
+            "returned_exact_match": 54,
+            "actual_exact_match": 54,
+            "time_of_execution": 0.5430562496185303
+        },
+        "levenshtein": {
+            "search_result": 10,
+            "returned_exact_match": 0,
+            "actual_exact_match": 54,
+            "time_of_execution": 0.028931617736816406
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 54,
+            "time_of_execution": 0.023926258087158203
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 54,
+            "time_of_execution": 0.3091738224029541
+        }
+    },
+    "thing": {
+        "base": {
+            "search_result": 31,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.1311631202697754
+        },
+        "enhanced": {
+            "search_result": 216,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.6527283191680908
+        },
+        "levenshtein": {
+            "search_result": 2,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.021940946578979492
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.020943880081176758
+        },
+        "soundex": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.30422186851501465
+        }
+    },
+    "woman": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 1,
+            "actual_exact_match": 11,
+            "time_of_execution": 0.13164019584655762
+        },
+        "enhanced": {
+            "search_result": 119,
+            "returned_exact_match": 11,
+            "actual_exact_match": 11,
+            "time_of_execution": 0.637636661529541
+        },
+        "levenshtein": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 11,
+            "time_of_execution": 0.022939443588256836
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 11,
+            "time_of_execution": 0.020906686782836914
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 11,
+            "time_of_execution": 0.30408549308776855
+        }
+    },
+    "life": {
+        "base": {
+            "search_result": 17,
+            "returned_exact_match": 12,
+            "actual_exact_match": 172,
+            "time_of_execution": 0.11153173446655273
+        },
+        "enhanced": {
+            "search_result": 340,
+            "returned_exact_match": 172,
+            "actual_exact_match": 172,
+            "time_of_execution": 0.5690245628356934
+        },
+        "levenshtein": {
+            "search_result": 11,
+            "returned_exact_match": 0,
+            "actual_exact_match": 172,
+            "time_of_execution": 0.025921106338500977
+        },
+        "jaro": {
+            "search_result": 1,
+            "returned_exact_match": 1,
+            "actual_exact_match": 172,
+            "time_of_execution": 0.021916866302490234
+        },
+        "soundex": {
+            "search_result": 1,
+            "returned_exact_match": 1,
+            "actual_exact_match": 172,
+            "time_of_execution": 0.3276817798614502
+        }
+    },
+    "child": {
+        "base": {
+            "search_result": 22,
+            "returned_exact_match": 2,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.14323115348815918
+        },
+        "enhanced": {
+            "search_result": 435,
+            "returned_exact_match": 16,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.582634687423706
+        },
+        "levenshtein": {
+            "search_result": 4,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.020970821380615234
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.017961740493774414
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.28822827339172363
+        }
+    },
+    "world": {
+        "base": {
+            "search_result": 28,
+            "returned_exact_match": 8,
+            "actual_exact_match": 125,
+            "time_of_execution": 0.12616944313049316
+        },
+        "enhanced": {
+            "search_result": 301,
+            "returned_exact_match": 125,
+            "actual_exact_match": 125,
+            "time_of_execution": 0.5605611801147461
+        },
+        "levenshtein": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 125,
+            "time_of_execution": 0.01892685890197754
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 125,
+            "time_of_execution": 0.018952608108520508
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 125,
+            "time_of_execution": 0.28423428535461426
+        }
+    },
+    "school": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 25,
+            "time_of_execution": 0.14064335823059082
+        },
+        "enhanced": {
+            "search_result": 95,
+            "returned_exact_match": 25,
+            "actual_exact_match": 25,
+            "time_of_execution": 0.6615481376647949
+        },
+        "levenshtein": {
+            "search_result": 2,
+            "returned_exact_match": 0,
+            "actual_exact_match": 25,
+            "time_of_execution": 0.020979642868041992
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 25,
+            "time_of_execution": 0.018942832946777344
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 25,
+            "time_of_execution": 0.28820013999938965
+        }
+    },
+    "state": {
+        "base": {
+            "search_result": 6,
+            "returned_exact_match": 0,
+            "actual_exact_match": 14,
+            "time_of_execution": 0.10870957374572754
+        },
+        "enhanced": {
+            "search_result": 179,
+            "returned_exact_match": 14,
+            "actual_exact_match": 14,
+            "time_of_execution": 0.6045792102813721
+        },
+        "levenshtein": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 14,
+            "time_of_execution": 0.018988847732543945
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 14,
+            "time_of_execution": 0.018909454345703125
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 14,
+            "time_of_execution": 0.3107483386993408
+        }
+    },
+    "family": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 1,
+            "actual_exact_match": 26,
+            "time_of_execution": 0.17852139472961426
+        },
+        "enhanced": {
+            "search_result": 84,
+            "returned_exact_match": 26,
+            "actual_exact_match": 26,
+            "time_of_execution": 0.8263034820556641
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 26,
+            "time_of_execution": 0.023935317993164062
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 26,
+            "time_of_execution": 0.021942615509033203
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 26,
+            "time_of_execution": 0.3215959072113037
+        }
+    },
+    "student": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.16905426979064941
+        },
+        "enhanced": {
+            "search_result": 61,
+            "returned_exact_match": 3,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.8432571887969971
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.020941495895385742
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.021941661834716797
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.3228447437286377
+        }
+    },
+    "group": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.13936471939086914
+        },
+        "enhanced": {
+            "search_result": 26,
+            "returned_exact_match": 5,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.5969910621643066
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.018915653228759766
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.018948078155517578
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.2792935371398926
+        }
+    },
+    "country": {
+        "base": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 4,
+            "time_of_execution": 0.1505575180053711
+        },
+        "enhanced": {
+            "search_result": 130,
+            "returned_exact_match": 4,
+            "actual_exact_match": 4,
+            "time_of_execution": 0.7442111968994141
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 4,
+            "time_of_execution": 0.021941184997558594
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 4,
+            "time_of_execution": 0.016954660415649414
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 4,
+            "time_of_execution": 0.29160451889038086
+        }
+    },
+    "problem": {
+        "base": {
+            "search_result": 4,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.15662550926208496
+        },
+        "enhanced": {
+            "search_result": 62,
+            "returned_exact_match": 7,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.7447285652160645
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.020946025848388672
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.017963886260986328
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.29616832733154297
+        }
+    },
+    "hand": {
+        "base": {
+            "search_result": 21,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.10076618194580078
+        },
+        "enhanced": {
+            "search_result": 2011,
+            "returned_exact_match": 7,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.5026600360870361
+        },
+        "levenshtein": {
+            "search_result": 7,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.020955324172973633
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.01795172691345215
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.27821898460388184
+        }
+    },
+    "part": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 29,
+            "time_of_execution": 0.0937497615814209
+        },
+        "enhanced": {
+            "search_result": 281,
+            "returned_exact_match": 29,
+            "actual_exact_match": 29,
+            "time_of_execution": 0.49979639053344727
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 29,
+            "time_of_execution": 0.019941091537475586
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 29,
+            "time_of_execution": 0.01897597312927246
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 29,
+            "time_of_execution": 0.27530527114868164
+        }
+    },
+    "place": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.12066078186035156
+        },
+        "enhanced": {
+            "search_result": 175,
+            "returned_exact_match": 7,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.5565392971038818
+        },
+        "levenshtein": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.02094268798828125
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.018913984298706055
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.28132152557373047
+        }
+    },
+    "case": {
+        "base": {
+            "search_result": 2,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.09674358367919922
+        },
+        "enhanced": {
+            "search_result": 266,
+            "returned_exact_match": 18,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.5025432109832764
+        },
+        "levenshtein": {
+            "search_result": 11,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.01894688606262207
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.018916606903076172
+        },
+        "soundex": {
+            "search_result": 2,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.27614665031433105
+        }
+    },
+    "week": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.10865497589111328
+        },
+        "enhanced": {
+            "search_result": 40,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.5571858882904053
+        },
+        "levenshtein": {
+            "search_result": 7,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.020907163619995117
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.016991853713989258
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.2786872386932373
+        }
+    },
+    "company": {
+        "base": {
+            "search_result": 12,
+            "returned_exact_match": 1,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.15561938285827637
+        },
+        "enhanced": {
+            "search_result": 111,
+            "returned_exact_match": 12,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.737297534942627
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.01994633674621582
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.019945621490478516
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.2862708568572998
+        }
+    },
+    "system": {
+        "base": {
+            "search_result": 10,
+            "returned_exact_match": 10,
+            "actual_exact_match": 49,
+            "time_of_execution": 0.13560271263122559
+        },
+        "enhanced": {
+            "search_result": 111,
+            "returned_exact_match": 49,
+            "actual_exact_match": 49,
+            "time_of_execution": 0.6624257564544678
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 49,
+            "time_of_execution": 0.02094125747680664
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 49,
+            "time_of_execution": 0.016918659210205078
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 49,
+            "time_of_execution": 0.28676772117614746
+        }
+    },
+    "program": {
+        "base": {
+            "search_result": 4,
+            "returned_exact_match": 0,
+            "actual_exact_match": 6,
+            "time_of_execution": 0.16652631759643555
+        },
+        "enhanced": {
+            "search_result": 73,
+            "returned_exact_match": 6,
+            "actual_exact_match": 6,
+            "time_of_execution": 0.7270667552947998
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 6,
+            "time_of_execution": 0.020933151245117188
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 6,
+            "time_of_execution": 0.020943641662597656
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 6,
+            "time_of_execution": 0.28830695152282715
+        }
+    },
+    "question": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 58,
+            "time_of_execution": 0.16599011421203613
+        },
+        "enhanced": {
+            "search_result": 199,
+            "returned_exact_match": 58,
+            "actual_exact_match": 58,
+            "time_of_execution": 0.8287887573242188
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 58,
+            "time_of_execution": 0.018944740295410156
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 58,
+            "time_of_execution": 0.019947290420532227
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 58,
+            "time_of_execution": 0.2873079776763916
+        }
+    },
+    "work": {
+        "base": {
+            "search_result": 2,
+            "returned_exact_match": 0,
+            "actual_exact_match": 27,
+            "time_of_execution": 0.10668063163757324
+        },
+        "enhanced": {
+            "search_result": 239,
+            "returned_exact_match": 27,
+            "actual_exact_match": 27,
+            "time_of_execution": 0.4934062957763672
+        },
+        "levenshtein": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 27,
+            "time_of_execution": 0.020948410034179688
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 27,
+            "time_of_execution": 0.01791238784790039
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 27,
+            "time_of_execution": 0.27430152893066406
+        }
+    },
+    "government": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.20547056198120117
+        },
+        "enhanced": {
+            "search_result": 6,
+            "returned_exact_match": 1,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.9712252616882324
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.021941184997558594
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.017952442169189453
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.3062162399291992
+        }
+    },
+    "number": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 32,
+            "time_of_execution": 0.1336078643798828
+        },
+        "enhanced": {
+            "search_result": 73,
+            "returned_exact_match": 32,
+            "actual_exact_match": 32,
+            "time_of_execution": 0.6617357730865479
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 32,
+            "time_of_execution": 0.020972013473510742
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 32,
+            "time_of_execution": 0.017955541610717773
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 32,
+            "time_of_execution": 0.282254695892334
+        }
+    },
+    "night": {
+        "base": {
+            "search_result": 4,
+            "returned_exact_match": 4,
+            "actual_exact_match": 22,
+            "time_of_execution": 0.11170172691345215
+        },
+        "enhanced": {
+            "search_result": 134,
+            "returned_exact_match": 22,
+            "actual_exact_match": 22,
+            "time_of_execution": 0.5525994300842285
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 22,
+            "time_of_execution": 0.018985271453857422
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 22,
+            "time_of_execution": 0.02094268798828125
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 22,
+            "time_of_execution": 0.2767674922943115
+        }
+    },
+    "point": {
+        "base": {
+            "search_result": 2,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.11768031120300293
+        },
+        "enhanced": {
+            "search_result": 64,
+            "returned_exact_match": 8,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.5719456672668457
+        },
+        "levenshtein": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.020993709564208984
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.017940759658813477
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.28224945068359375
+        }
+    },
+    "home": {
+        "base": {
+            "search_result": 8,
+            "returned_exact_match": 2,
+            "actual_exact_match": 28,
+            "time_of_execution": 0.09980487823486328
+        },
+        "enhanced": {
+            "search_result": 103,
+            "returned_exact_match": 28,
+            "actual_exact_match": 28,
+            "time_of_execution": 0.5091109275817871
+        },
+        "levenshtein": {
+            "search_result": 14,
+            "returned_exact_match": 0,
+            "actual_exact_match": 28,
+            "time_of_execution": 0.01895284652709961
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 28,
+            "time_of_execution": 0.018945693969726562
+        },
+        "soundex": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 28,
+            "time_of_execution": 0.278256893157959
+        }
+    },
+    "water": {
+        "base": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.11070847511291504
+        },
+        "enhanced": {
+            "search_result": 152,
+            "returned_exact_match": 12,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.567838191986084
+        },
+        "levenshtein": {
+            "search_result": 2,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.018946170806884766
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.01993846893310547
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.4051666259765625
+        }
+    },
+    "room": {
+        "base": {
+            "search_result": 3,
+            "returned_exact_match": 2,
+            "actual_exact_match": 15,
+            "time_of_execution": 0.14262008666992188
+        },
+        "enhanced": {
+            "search_result": 399,
+            "returned_exact_match": 15,
+            "actual_exact_match": 15,
+            "time_of_execution": 0.5186517238616943
+        },
+        "levenshtein": {
+            "search_result": 2,
+            "returned_exact_match": 0,
+            "actual_exact_match": 15,
+            "time_of_execution": 0.019910335540771484
+        },
+        "jaro": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 15,
+            "time_of_execution": 0.018947601318359375
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 15,
+            "time_of_execution": 0.2762625217437744
+        }
+    },
+    "mother": {
+        "base": {
+            "search_result": 14,
+            "returned_exact_match": 13,
+            "actual_exact_match": 15,
+            "time_of_execution": 0.1256999969482422
+        },
+        "enhanced": {
+            "search_result": 2807,
+            "returned_exact_match": 15,
+            "actual_exact_match": 15,
+            "time_of_execution": 0.6982989311218262
+        },
+        "levenshtein": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 15,
+            "time_of_execution": 0.0219419002532959
+        },
+        "jaro": {
+            "search_result": 6,
+            "returned_exact_match": 6,
+            "actual_exact_match": 15,
+            "time_of_execution": 0.016954421997070312
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 15,
+            "time_of_execution": 0.285275936126709
+        }
+    },
+    "area": {
+        "base": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.09773564338684082
+        },
+        "enhanced": {
+            "search_result": 204,
+            "returned_exact_match": 2,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.5120401382446289
+        },
+        "levenshtein": {
+            "search_result": 8,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.020908832550048828
+        },
+        "jaro": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.017978429794311523
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.2778904438018799
+        }
+    },
+    "money": {
+        "base": {
+            "search_result": 3,
+            "returned_exact_match": 2,
+            "actual_exact_match": 34,
+            "time_of_execution": 0.11768388748168945
+        },
+        "enhanced": {
+            "search_result": 261,
+            "returned_exact_match": 34,
+            "actual_exact_match": 34,
+            "time_of_execution": 0.5712037086486816
+        },
+        "levenshtein": {
+            "search_result": 10,
+            "returned_exact_match": 0,
+            "actual_exact_match": 34,
+            "time_of_execution": 0.01994776725769043
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 34,
+            "time_of_execution": 0.017956018447875977
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 34,
+            "time_of_execution": 0.27530741691589355
+        }
+    },
+    "story": {
+        "base": {
+            "search_result": 50,
+            "returned_exact_match": 45,
+            "actual_exact_match": 263,
+            "time_of_execution": 0.11465811729431152
+        },
+        "enhanced": {
+            "search_result": 536,
+            "returned_exact_match": 263,
+            "actual_exact_match": 263,
+            "time_of_execution": 0.5645263195037842
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 263,
+            "time_of_execution": 0.019937515258789062
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 263,
+            "time_of_execution": 0.017925739288330078
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 263,
+            "time_of_execution": 0.2748894691467285
+        }
+    },
+    "fact": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.10468363761901855
+        },
+        "enhanced": {
+            "search_result": 87,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.5004959106445312
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.019984960556030273
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.01893758773803711
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.2742762565612793
+        }
+    },
+    "month": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.11268877983093262
+        },
+        "enhanced": {
+            "search_result": 66,
+            "returned_exact_match": 2,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.5664598941802979
+        },
+        "levenshtein": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.021967649459838867
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.019919633865356445
+        },
+        "soundex": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.28003406524658203
+        }
+    },
+    "lot": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.07978677749633789
+        },
+        "enhanced": {
+            "search_result": 37,
+            "returned_exact_match": 3,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.429459810256958
+        },
+        "levenshtein": {
+            "search_result": 5,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.02194380760192871
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.018922805786132812
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.27828145027160645
+        }
+    },
+    "right": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 1,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.11128091812133789
+        },
+        "enhanced": {
+            "search_result": 112,
+            "returned_exact_match": 5,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.5585927963256836
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.021904706954956055
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.01695418357849121
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.2787818908691406
+        }
+    },
+    "study": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.1207118034362793
+        },
+        "enhanced": {
+            "search_result": 79,
+            "returned_exact_match": 16,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.5584793090820312
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.019946575164794922
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.01795220375061035
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.2837507724761963
+        }
+    },
+    "book": {
+        "base": {
+            "search_result": 9,
+            "returned_exact_match": 8,
+            "actual_exact_match": 1498,
+            "time_of_execution": 0.1186819076538086
+        },
+        "enhanced": {
+            "search_result": 1982,
+            "returned_exact_match": 1498,
+            "actual_exact_match": 1498,
+            "time_of_execution": 0.5108404159545898
+        },
+        "levenshtein": {
+            "search_result": 4,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1498,
+            "time_of_execution": 0.022937774658203125
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1498,
+            "time_of_execution": 0.018950223922729492
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1498,
+            "time_of_execution": 0.276261568069458
+        }
+    },
+    "eye": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.08679437637329102
+        },
+        "enhanced": {
+            "search_result": 12,
+            "returned_exact_match": 7,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.4188828468322754
+        },
+        "levenshtein": {
+            "search_result": 10,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.02393317222595215
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.017925262451171875
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.27231502532958984
+        }
+    },
+    "job": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.09220266342163086
+        },
+        "enhanced": {
+            "search_result": 14,
+            "returned_exact_match": 3,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.4127967357635498
+        },
+        "levenshtein": {
+            "search_result": 4,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.01794266700744629
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.018923282623291016
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.2712745666503906
+        }
+    },
+    "word": {
+        "base": {
+            "search_result": 11,
+            "returned_exact_match": 9,
+            "actual_exact_match": 25,
+            "time_of_execution": 0.10473370552062988
+        },
+        "enhanced": {
+            "search_result": 349,
+            "returned_exact_match": 25,
+            "actual_exact_match": 25,
+            "time_of_execution": 0.497819185256958
+        },
+        "levenshtein": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 25,
+            "time_of_execution": 0.020906448364257812
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 25,
+            "time_of_execution": 0.017989397048950195
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 25,
+            "time_of_execution": 0.28619909286499023
+        }
+    },
+    "business": {
+        "base": {
+            "search_result": 14,
+            "returned_exact_match": 14,
+            "actual_exact_match": 47,
+            "time_of_execution": 0.1736586093902588
+        },
+        "enhanced": {
+            "search_result": 66,
+            "returned_exact_match": 47,
+            "actual_exact_match": 47,
+            "time_of_execution": 0.8314573764801025
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 47,
+            "time_of_execution": 0.02094244956970215
+        },
+        "jaro": {
+            "search_result": 2,
+            "returned_exact_match": 2,
+            "actual_exact_match": 47,
+            "time_of_execution": 0.018911361694335938
+        },
+        "soundex": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 47,
+            "time_of_execution": 0.2926146984100342
+        }
+    },
+    "issue": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.1162264347076416
+        },
+        "enhanced": {
+            "search_result": 13,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.5603170394897461
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.020943403244018555
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.017951488494873047
+        },
+        "soundex": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.2897324562072754
+        }
+    },
+    "side": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.09877610206604004
+        },
+        "enhanced": {
+            "search_result": 111,
+            "returned_exact_match": 8,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.5056607723236084
+        },
+        "levenshtein": {
+            "search_result": 11,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.021482467651367188
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.016948699951171875
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.2793252468109131
+        }
+    },
+    "kind": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.10372090339660645
+        },
+        "enhanced": {
+            "search_result": 1203,
+            "returned_exact_match": 7,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.4954841136932373
+        },
+        "levenshtein": {
+            "search_result": 11,
+            "returned_exact_match": 3,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.02016592025756836
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.018950223922729492
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.27373838424682617
+        }
+    },
+    "head": {
+        "base": {
+            "search_result": 7,
+            "returned_exact_match": 5,
+            "actual_exact_match": 6,
+            "time_of_execution": 0.0967414379119873
+        },
+        "enhanced": {
+            "search_result": 196,
+            "returned_exact_match": 6,
+            "actual_exact_match": 6,
+            "time_of_execution": 0.49970054626464844
+        },
+        "levenshtein": {
+            "search_result": 6,
+            "returned_exact_match": 0,
+            "actual_exact_match": 6,
+            "time_of_execution": 0.019910335540771484
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 6,
+            "time_of_execution": 0.017990827560424805
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 6,
+            "time_of_execution": 0.2802567481994629
+        }
+    },
+    "house": {
+        "base": {
+            "search_result": 6,
+            "returned_exact_match": 3,
+            "actual_exact_match": 19,
+            "time_of_execution": 0.11469149589538574
+        },
+        "enhanced": {
+            "search_result": 107,
+            "returned_exact_match": 19,
+            "actual_exact_match": 19,
+            "time_of_execution": 0.5756509304046631
+        },
+        "levenshtein": {
+            "search_result": 10,
+            "returned_exact_match": 0,
+            "actual_exact_match": 19,
+            "time_of_execution": 0.02094435691833496
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 19,
+            "time_of_execution": 0.016996383666992188
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 19,
+            "time_of_execution": 0.283200740814209
+        }
+    },
+    "service": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.1506361961364746
+        },
+        "enhanced": {
+            "search_result": 347,
+            "returned_exact_match": 7,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.7641599178314209
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.02097010612487793
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.018924713134765625
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.29523587226867676
+        }
+    },
+    "friend": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.1286630630493164
+        },
+        "enhanced": {
+            "search_result": 150,
+            "returned_exact_match": 9,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.6897678375244141
+        },
+        "levenshtein": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.0209200382232666
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.017950057983398438
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.2840390205383301
+        }
+    },
+    "father": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.12265944480895996
+        },
+        "enhanced": {
+            "search_result": 2791,
+            "returned_exact_match": 3,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.7241008281707764
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.020943164825439453
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.0179135799407959
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.28237175941467285
+        }
+    },
+    "power": {
+        "base": {
+            "search_result": 11,
+            "returned_exact_match": 3,
+            "actual_exact_match": 67,
+            "time_of_execution": 0.11866545677185059
+        },
+        "enhanced": {
+            "search_result": 228,
+            "returned_exact_match": 67,
+            "actual_exact_match": 67,
+            "time_of_execution": 0.5687577724456787
+        },
+        "levenshtein": {
+            "search_result": 3,
+            "returned_exact_match": 1,
+            "actual_exact_match": 67,
+            "time_of_execution": 0.021943092346191406
+        },
+        "jaro": {
+            "search_result": 4,
+            "returned_exact_match": 1,
+            "actual_exact_match": 67,
+            "time_of_execution": 0.017942190170288086
+        },
+        "soundex": {
+            "search_result": 1,
+            "returned_exact_match": 1,
+            "actual_exact_match": 67,
+            "time_of_execution": 0.2732698917388916
+        }
+    },
+    "hour": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.10074377059936523
+        },
+        "enhanced": {
+            "search_result": 346,
+            "returned_exact_match": 1,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.48520684242248535
+        },
+        "levenshtein": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.019908428192138672
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.016954898834228516
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.2743079662322998
+        }
+    },
+    "game": {
+        "base": {
+            "search_result": 2,
+            "returned_exact_match": 0,
+            "actual_exact_match": 28,
+            "time_of_execution": 0.09717130661010742
+        },
+        "enhanced": {
+            "search_result": 299,
+            "returned_exact_match": 28,
+            "actual_exact_match": 28,
+            "time_of_execution": 0.4976046085357666
+        },
+        "levenshtein": {
+            "search_result": 8,
+            "returned_exact_match": 0,
+            "actual_exact_match": 28,
+            "time_of_execution": 0.01995849609375
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 28,
+            "time_of_execution": 0.020903825759887695
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 28,
+            "time_of_execution": 0.2677896022796631
+        }
+    },
+    "line": {
+        "base": {
+            "search_result": 7,
+            "returned_exact_match": 1,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.08872365951538086
+        },
+        "enhanced": {
+            "search_result": 924,
+            "returned_exact_match": 18,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.4753072261810303
+        },
+        "levenshtein": {
+            "search_result": 12,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.0194547176361084
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.017989158630371094
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.2603433132171631
+        }
+    },
+    "end": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 17,
+            "time_of_execution": 0.07775640487670898
+        },
+        "enhanced": {
+            "search_result": 72,
+            "returned_exact_match": 17,
+            "actual_exact_match": 17,
+            "time_of_execution": 0.3950488567352295
+        },
+        "levenshtein": {
+            "search_result": 10,
+            "returned_exact_match": 0,
+            "actual_exact_match": 17,
+            "time_of_execution": 0.018961191177368164
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 17,
+            "time_of_execution": 0.016945362091064453
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 17,
+            "time_of_execution": 0.2622971534729004
+        }
+    },
+    "member": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.13364243507385254
+        },
+        "enhanced": {
+            "search_result": 12,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.6193900108337402
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.018913745880126953
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.016954898834228516
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.27828240394592285
+        }
+    },
+    "law": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.08174300193786621
+        },
+        "enhanced": {
+            "search_result": 46,
+            "returned_exact_match": 12,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.3859686851501465
+        },
+        "levenshtein": {
+            "search_result": 6,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.0189511775970459
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.018982648849487305
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.38086485862731934
+        }
+    },
+    "car": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.07579684257507324
+        },
+        "enhanced": {
+            "search_result": 181,
+            "returned_exact_match": 18,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.402468204498291
+        },
+        "levenshtein": {
+            "search_result": 8,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.018911123275756836
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.018457651138305664
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 18,
+            "time_of_execution": 0.26432132720947266
+        }
+    },
+    "city": {
+        "base": {
+            "search_result": 3,
+            "returned_exact_match": 1,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.11366987228393555
+        },
+        "enhanced": {
+            "search_result": 83,
+            "returned_exact_match": 9,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.49479031562805176
+        },
+        "levenshtein": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.018942832946777344
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.017922401428222656
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.2705366611480713
+        }
+    },
+    "community": {
+        "base": {
+            "search_result": 9,
+            "returned_exact_match": 2,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.1894540786743164
+        },
+        "enhanced": {
+            "search_result": 78,
+            "returned_exact_match": 12,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.8192229270935059
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.018976449966430664
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.017962217330932617
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 12,
+            "time_of_execution": 0.27921605110168457
+        }
+    },
+    "name": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.08983373641967773
+        },
+        "enhanced": {
+            "search_result": 95,
+            "returned_exact_match": 3,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.4804871082305908
+        },
+        "levenshtein": {
+            "search_result": 9,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.0189211368560791
+        },
+        "jaro": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.017986774444580078
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.25948667526245117
+        }
+    },
+    "president": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.16500592231750488
+        },
+        "enhanced": {
+            "search_result": 18,
+            "returned_exact_match": 1,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.8505797386169434
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.019972801208496094
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.017964839935302734
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.28171634674072266
+        }
+    },
+    "team": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 1,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.09229612350463867
+        },
+        "enhanced": {
+            "search_result": 264,
+            "returned_exact_match": 16,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.4792304039001465
+        },
+        "levenshtein": {
+            "search_result": 4,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.019983768463134766
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.0174562931060791
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.2662808895111084
+        }
+    },
+    "minute": {
+        "base": {
+            "search_result": 2,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.12367534637451172
+        },
+        "enhanced": {
+            "search_result": 56,
+            "returned_exact_match": 2,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.6375291347503662
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.0199124813079834
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.016954660415649414
+        },
+        "soundex": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.2799246311187744
+        }
+    },
+    "idea": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.09030795097351074
+        },
+        "enhanced": {
+            "search_result": 97,
+            "returned_exact_match": 5,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.48880672454833984
+        },
+        "levenshtein": {
+            "search_result": 4,
+            "returned_exact_match": 0,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.018957138061523438
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.01791214942932129
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 5,
+            "time_of_execution": 0.26233601570129395
+        }
+    },
+    "kid": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 62,
+            "time_of_execution": 0.08673095703125
+        },
+        "enhanced": {
+            "search_result": 532,
+            "returned_exact_match": 62,
+            "actual_exact_match": 62,
+            "time_of_execution": 0.3889601230621338
+        },
+        "levenshtein": {
+            "search_result": 7,
+            "returned_exact_match": 0,
+            "actual_exact_match": 62,
+            "time_of_execution": 0.020004749298095703
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 62,
+            "time_of_execution": 0.015929698944091797
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 62,
+            "time_of_execution": 0.26233625411987305
+        }
+    },
+    "body": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 50,
+            "time_of_execution": 0.09899115562438965
+        },
+        "enhanced": {
+            "search_result": 109,
+            "returned_exact_match": 50,
+            "actual_exact_match": 50,
+            "time_of_execution": 0.47380757331848145
+        },
+        "levenshtein": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 50,
+            "time_of_execution": 0.018949270248413086
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 50,
+            "time_of_execution": 0.016951560974121094
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 50,
+            "time_of_execution": 0.25927114486694336
+        }
+    },
+    "information": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 1,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.2084805965423584
+        },
+        "enhanced": {
+            "search_result": 79,
+            "returned_exact_match": 8,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.9637448787689209
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.018935441970825195
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.01893758773803711
+        },
+        "soundex": {
+            "search_result": 1,
+            "returned_exact_match": 1,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.34033870697021484
+        }
+    },
+    "back": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.1047203540802002
+        },
+        "enhanced": {
+            "search_result": 108,
+            "returned_exact_match": 16,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.4634087085723877
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.019945859909057617
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.017925739288330078
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.2716083526611328
+        }
+    },
+    "parent": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.12008047103881836
+        },
+        "enhanced": {
+            "search_result": 217,
+            "returned_exact_match": 2,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.680612325668335
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.019948482513427734
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.017943143844604492
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.27665257453918457
+        }
+    },
+    "face": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.09777498245239258
+        },
+        "enhanced": {
+            "search_result": 102,
+            "returned_exact_match": 2,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.4849424362182617
+        },
+        "levenshtein": {
+            "search_result": 9,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.01990652084350586
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.016993284225463867
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.26101088523864746
+        }
+    },
+    "others": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.1149590015411377
+        },
+        "enhanced": {
+            "search_result": 2824,
+            "returned_exact_match": 9,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.6662719249725342
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.018950939178466797
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.01794910430908203
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 9,
+            "time_of_execution": 0.2689507007598877
+        }
+    },
+    "level": {
+        "base": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 61,
+            "time_of_execution": 0.12090063095092773
+        },
+        "enhanced": {
+            "search_result": 106,
+            "returned_exact_match": 61,
+            "actual_exact_match": 61,
+            "time_of_execution": 0.6094977855682373
+        },
+        "levenshtein": {
+            "search_result": 5,
+            "returned_exact_match": 0,
+            "actual_exact_match": 61,
+            "time_of_execution": 0.04089093208312988
+        },
+        "jaro": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 61,
+            "time_of_execution": 0.05585050582885742
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 61,
+            "time_of_execution": 0.4867212772369385
+        }
+    },
+    "office": {
+        "base": {
+            "search_result": 3,
+            "returned_exact_match": 1,
+            "actual_exact_match": 14,
+            "time_of_execution": 0.2652900218963623
+        },
+        "enhanced": {
+            "search_result": 47,
+            "returned_exact_match": 14,
+            "actual_exact_match": 14,
+            "time_of_execution": 1.0302834510803223
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 14,
+            "time_of_execution": 0.022938013076782227
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 14,
+            "time_of_execution": 0.02094411849975586
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 14,
+            "time_of_execution": 0.4223818778991699
+        }
+    },
+    "door": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.1216742992401123
+        },
+        "enhanced": {
+            "search_result": 65,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.6797137260437012
+        },
+        "levenshtein": {
+            "search_result": 6,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.023447751998901367
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.02094411849975586
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.3264505863189697
+        }
+    },
+    "health": {
+        "base": {
+            "search_result": 5,
+            "returned_exact_match": 3,
+            "actual_exact_match": 40,
+            "time_of_execution": 0.13962554931640625
+        },
+        "enhanced": {
+            "search_result": 180,
+            "returned_exact_match": 40,
+            "actual_exact_match": 40,
+            "time_of_execution": 0.9281649589538574
+        },
+        "levenshtein": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 40,
+            "time_of_execution": 0.019946813583374023
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 40,
+            "time_of_execution": 0.017952919006347656
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 40,
+            "time_of_execution": 0.2957146167755127
+        }
+    },
+    "person": {
+        "base": {
+            "search_result": 8,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.1411299705505371
+        },
+        "enhanced": {
+            "search_result": 116,
+            "returned_exact_match": 1,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.6750712394714355
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.02689337730407715
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.03690075874328613
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.5856895446777344
+        }
+    },
+    "art": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 87,
+            "time_of_execution": 0.09175515174865723
+        },
+        "enhanced": {
+            "search_result": 285,
+            "returned_exact_match": 87,
+            "actual_exact_match": 87,
+            "time_of_execution": 0.6183936595916748
+        },
+        "levenshtein": {
+            "search_result": 4,
+            "returned_exact_match": 0,
+            "actual_exact_match": 87,
+            "time_of_execution": 0.0618281364440918
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 87,
+            "time_of_execution": 0.03789973258972168
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 87,
+            "time_of_execution": 0.37378954887390137
+        }
+    },
+    "war": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 35,
+            "time_of_execution": 0.10708093643188477
+        },
+        "enhanced": {
+            "search_result": 98,
+            "returned_exact_match": 35,
+            "actual_exact_match": 35,
+            "time_of_execution": 0.49917149543762207
+        },
+        "levenshtein": {
+            "search_result": 8,
+            "returned_exact_match": 0,
+            "actual_exact_match": 35,
+            "time_of_execution": 0.020943164825439453
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 35,
+            "time_of_execution": 0.01894998550415039
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 35,
+            "time_of_execution": 0.30225348472595215
+        }
+    },
+    "history": {
+        "base": {
+            "search_result": 8,
+            "returned_exact_match": 6,
+            "actual_exact_match": 98,
+            "time_of_execution": 0.14387774467468262
+        },
+        "enhanced": {
+            "search_result": 476,
+            "returned_exact_match": 98,
+            "actual_exact_match": 98,
+            "time_of_execution": 0.7230660915374756
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 98,
+            "time_of_execution": 0.018985509872436523
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 98,
+            "time_of_execution": 0.017950773239135742
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 98,
+            "time_of_execution": 0.27533864974975586
+        }
+    },
+    "party": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.10967087745666504
+        },
+        "enhanced": {
+            "search_result": 196,
+            "returned_exact_match": 1,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.5457611083984375
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.01994633674621582
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.016921520233154297
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.27465200424194336
+        }
+    },
+    "result": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.12470197677612305
+        },
+        "enhanced": {
+            "search_result": 43,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.6764864921569824
+        },
+        "levenshtein": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.02094435691833496
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.01994609832763672
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.28626203536987305
+        }
+    },
+    "change": {
+        "base": {
+            "search_result": 7,
+            "returned_exact_match": 1,
+            "actual_exact_match": 35,
+            "time_of_execution": 0.13365840911865234
+        },
+        "enhanced": {
+            "search_result": 190,
+            "returned_exact_match": 35,
+            "actual_exact_match": 35,
+            "time_of_execution": 0.6612472534179688
+        },
+        "levenshtein": {
+            "search_result": 2,
+            "returned_exact_match": 0,
+            "actual_exact_match": 35,
+            "time_of_execution": 0.01994633674621582
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 35,
+            "time_of_execution": 0.01795196533203125
+        },
+        "soundex": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 35,
+            "time_of_execution": 0.2783849239349365
+        }
+    },
+    "morning": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.14261746406555176
+        },
+        "enhanced": {
+            "search_result": 66,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.7100663185119629
+        },
+        "levenshtein": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.019979000091552734
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.016956567764282227
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 0,
+            "time_of_execution": 0.27211594581604004
+        }
+    },
+    "reason": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.1157217025756836
+        },
+        "enhanced": {
+            "search_result": 74,
+            "returned_exact_match": 3,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.6562306880950928
+        },
+        "levenshtein": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.018938302993774414
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.017927169799804688
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.27883362770080566
+        }
+    },
+    "research": {
+        "base": {
+            "search_result": 3,
+            "returned_exact_match": 3,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.16455745697021484
+        },
+        "enhanced": {
+            "search_result": 56,
+            "returned_exact_match": 16,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.7924323081970215
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.019007444381713867
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.017963647842407227
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 16,
+            "time_of_execution": 0.27379941940307617
+        }
+    },
+    "girl": {
+        "base": {
+            "search_result": 9,
+            "returned_exact_match": 7,
+            "actual_exact_match": 59,
+            "time_of_execution": 0.0987098217010498
+        },
+        "enhanced": {
+            "search_result": 87,
+            "returned_exact_match": 59,
+            "actual_exact_match": 59,
+            "time_of_execution": 0.46877288818359375
+        },
+        "levenshtein": {
+            "search_result": 4,
+            "returned_exact_match": 0,
+            "actual_exact_match": 59,
+            "time_of_execution": 0.01896214485168457
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 59,
+            "time_of_execution": 0.016915559768676758
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 59,
+            "time_of_execution": 0.2633333206176758
+        }
+    },
+    "guy": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.08875465393066406
+        },
+        "enhanced": {
+            "search_result": 16,
+            "returned_exact_match": 7,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.37577128410339355
+        },
+        "levenshtein": {
+            "search_result": 10,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.018952131271362305
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.016948461532592773
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 7,
+            "time_of_execution": 0.2544388771057129
+        }
+    },
+    "moment": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.12517237663269043
+        },
+        "enhanced": {
+            "search_result": 48,
+            "returned_exact_match": 1,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.6483025550842285
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.018955230712890625
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.016948699951171875
+        },
+        "soundex": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.26732397079467773
+        }
+    },
+    "air": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 13,
+            "time_of_execution": 0.07479977607727051
+        },
+        "enhanced": {
+            "search_result": 135,
+            "returned_exact_match": 13,
+            "actual_exact_match": 13,
+            "time_of_execution": 0.40389537811279297
+        },
+        "levenshtein": {
+            "search_result": 7,
+            "returned_exact_match": 0,
+            "actual_exact_match": 13,
+            "time_of_execution": 0.019972562789916992
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 13,
+            "time_of_execution": 0.016930103302001953
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 13,
+            "time_of_execution": 0.25634002685546875
+        }
+    },
+    "teacher": {
+        "base": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.13301420211791992
+        },
+        "enhanced": {
+            "search_result": 51,
+            "returned_exact_match": 2,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.721081018447876
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.018940448760986328
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.017926931381225586
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 2,
+            "time_of_execution": 0.2743380069732666
+        }
+    },
+    "force": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.10967206954956055
+        },
+        "enhanced": {
+            "search_result": 1500,
+            "returned_exact_match": 1,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.5535109043121338
+        },
+        "levenshtein": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.02094411849975586
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.01795196533203125
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.26731276512145996
+        }
+    },
+    "education": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.1615760326385498
+        },
+        "enhanced": {
+            "search_result": 909,
+            "returned_exact_match": 8,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.8336076736450195
+        },
+        "levenshtein": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.01894974708557129
+        },
+        "jaro": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.017951011657714844
+        },
+        "soundex": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.2791924476623535
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "Complete Guide": {
+        "base": {
+            "search_result": 6,
+            "returned_exact_match": 0,
+            "actual_exact_match": 14,
+            "time_of_execution": 0.32010340690612793
+        },
+        "enhanced": {
+            "search_result": 57,
+            "returned_exact_match": 14,
+            "actual_exact_match": 14,
+            "time_of_execution": 2.1429784297943115
+        }
+    },
+    "Quick Reference": {
+        "base": {
+            "search_result": 2,
+            "returned_exact_match": 0,
+            "actual_exact_match": 8,
+            "time_of_execution": 0.3967876434326172
+        },
+        "enhanced": {
+            "search_result": 10,
+            "returned_exact_match": 8,
+            "actual_exact_match": 8,
+            "time_of_execution": 1.835662603378296
+        }
+    },
+    "financial freedom": {
+        "base": {
+            "search_result": 3,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.3563196659088135
+        },
+        "enhanced": {
+            "search_result": 12,
+            "returned_exact_match": 1,
+            "actual_exact_match": 1,
+            "time_of_execution": 1.9738671779632568
+        }
+    },
+    "For Adults": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 39,
+            "time_of_execution": 0.22836661338806152
+        },
+        "enhanced": {
+            "search_result": 106,
+            "returned_exact_match": 39,
+            "actual_exact_match": 39,
+            "time_of_execution": 1.412947416305542
+        }
+    },
+    "Time Management": {
+        "base": {
+            "search_result": 1,
+            "returned_exact_match": 0,
+            "actual_exact_match": 3,
+            "time_of_execution": 0.3636167049407959
+        },
+        "enhanced": {
+            "search_result": 21,
+            "returned_exact_match": 3,
+            "actual_exact_match": 3,
+            "time_of_execution": 1.881009817123413
+        }
+    },
+    "Stress Relief": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.29323506355285645
+        },
+        "enhanced": {
+            "search_result": 2,
+            "returned_exact_match": 1,
+            "actual_exact_match": 1,
+            "time_of_execution": 1.716092586517334
+        }
+    },
+    "Language Learning": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 1,
+            "time_of_execution": 0.4018559455871582
+        },
+        "enhanced": {
+            "search_result": 24,
+            "returned_exact_match": 1,
+            "actual_exact_match": 1,
+            "time_of_execution": 2.1284775733947754
+        }
+    },
+    "For Kids": {
+        "base": {
+            "search_result": 0,
+            "returned_exact_match": 0,
+            "actual_exact_match": 321,
+            "time_of_execution": 0.22490620613098145
+        },
+        "enhanced": {
+            "search_result": 357,
+            "returned_exact_match": 321,
+            "actual_exact_match": 321,
+            "time_of_execution": 1.1953930854797363
+        }
+    },
+    "Guide to": {
+        "base": {
+            "search_result": 7,
+            "returned_exact_match": 5,
+            "actual_exact_match": 162,
+            "time_of_execution": 0.19565892219543457
+        },
+        "enhanced": {
+            "search_result": 334,
+            "returned_exact_match": 162,
+            "actual_exact_match": 162,
+            "time_of_execution": 1.279392957687378
+        }
+    },
+    "How to": {
+        "base": {
+            "search_result": 95,
+            "returned_exact_match": 62,
+            "actual_exact_match": 161,
+            "time_of_execution": 0.1968374252319336
+        },
+        "enhanced": {
+            "search_result": 239,
+            "returned_exact_match": 161,
+            "actual_exact_match": 161,
+            "time_of_execution": 1.2070927619934082
+        }
+    },
+    "The Power": {
+        "base": {
+            "search_result": 125,
+            "returned_exact_match": 18,
+            "actual_exact_match": 33,
+            "time_of_execution": 0.2601463794708252
+        },
+        "enhanced": {
+            "search_result": 1087,
+            "returned_exact_match": 33,
+            "actual_exact_match": 33,
+            "time_of_execution": 1.571869134902954
+        }
+    }
+}

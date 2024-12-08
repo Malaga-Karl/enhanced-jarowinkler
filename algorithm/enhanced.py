@@ -18,7 +18,7 @@ class EnhancedAlgo:
                         suffix_count += 1
                     else:
                         break
-                return jd + suffix_count * 0.1 * (1-jd)
+                return jd + suffix_count * 0.001 * (1-jd)
             else:
                 return 0.1
                 
